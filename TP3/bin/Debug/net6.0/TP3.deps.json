@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP3/1.0.0": {
+        "dependencies": {
+          "TP3.Paints": "1.0.0",
+          "TP3.Repository": "1.0.0"
+        },
+        "runtime": {
+          "TP3.dll": {}
+        }
+      },
+      "TP3.Paints/1.0.0": {
+        "runtime": {
+          "TP3.Paints.dll": {}
+        }
+      },
+      "TP3.Repository/1.0.0": {
+        "dependencies": {
+          "TP3.Paints": "1.0.0"
+        },
+        "runtime": {
+          "TP3.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP3.Paints/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TP3.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

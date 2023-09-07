@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kCGzEovw1hXrGEJb5aftrUiyLswk7A9ZXTli6LFDFs96fRrINwhqSqiTwprZ12u2BHl7DKKcsN8wc07cBdkEfw==",
+  "success": true,
+  "projectFilePath": "/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/TP3.Paints.csproj",
+  "expectedPackageFiles": [
+    "/Users/caiomotamarinho/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/caiomotamarinho/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

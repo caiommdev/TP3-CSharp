@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iKajzK+Zn9en1OuvvZDlOOREGhrL0WxrK68dqYzuGCED0XNSlgn956jVPcSe0wsDcjQln9MeAgYburd3w3Ullw==",
+  "success": true,
+  "projectFilePath": "/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/TP3.Repository.csproj",
+  "expectedPackageFiles": [
+    "/Users/caiomotamarinho/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/caiomotamarinho/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

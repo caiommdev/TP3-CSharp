@@ -1,0 +1,15 @@
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/bin/Debug/net6.0/TP3.Repository.deps.json
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/bin/Debug/net6.0/TP3.Repository.dll
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/bin/Debug/net6.0/TP3.Repository.pdb
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/bin/Debug/net6.0/TP3.Paints.dll
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/bin/Debug/net6.0/TP3.Paints.pdb
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/TP3.Repository.csproj.AssemblyReference.cache
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/TP3.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/TP3.Repository.AssemblyInfoInputs.cache
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/TP3.Repository.AssemblyInfo.cs
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/TP3.Repository.csproj.CoreCompileInputs.cache
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/TP3.Repository.csproj.CopyComplete
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/TP3.Repository.dll
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/refint/TP3.Repository.dll
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/TP3.Repository.pdb
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/obj/Debug/net6.0/ref/TP3.Repository.dll

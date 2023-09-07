@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3", "TP3\TP3.csproj", "{CAB48EFB-0B94-47EC-8B14-B3E8FC75CBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3.Paints", "TP3.Paints\TP3.Paints.csproj", "{A007DB5B-F0D4-47F7-85AC-FBBF7A5CCA38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3.Repository", "TP3.Repository\TP3.Repository.csproj", "{D06C64F6-1915-47F2-B89E-8B531602F25A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB48EFB-0B94-47EC-8B14-B3E8FC75CBE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB48EFB-0B94-47EC-8B14-B3E8FC75CBE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB48EFB-0B94-47EC-8B14-B3E8FC75CBE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB48EFB-0B94-47EC-8B14-B3E8FC75CBE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A007DB5B-F0D4-47F7-85AC-FBBF7A5CCA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A007DB5B-F0D4-47F7-85AC-FBBF7A5CCA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A007DB5B-F0D4-47F7-85AC-FBBF7A5CCA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A007DB5B-F0D4-47F7-85AC-FBBF7A5CCA38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D06C64F6-1915-47F2-B89E-8B531602F25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06C64F6-1915-47F2-B89E-8B531602F25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06C64F6-1915-47F2-B89E-8B531602F25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06C64F6-1915-47F2-B89E-8B531602F25A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "TP3.Paints/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TP3.Paints.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TP3.Paints.dll": {}
+        }
+      },
+      "TP3.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "TP3.Paints": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TP3.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TP3.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP3.Paints/1.0.0": {
+      "type": "project",
+      "path": "../TP3.Paints/TP3.Paints.csproj",
+      "msbuildProject": "../TP3.Paints/TP3.Paints.csproj"
+    },
+    "TP3.Repository/1.0.0": {
+      "type": "project",
+      "path": "../TP3.Repository/TP3.Repository.csproj",
+      "msbuildProject": "../TP3.Repository/TP3.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "TP3.Paints >= 1.0.0",
+      "TP3.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/caiomotamarinho/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/caiomotamarinho/RiderProjects/TP3/TP3/TP3.csproj",
+      "projectName": "TP3",
+      "projectPath": "/Users/caiomotamarinho/RiderProjects/TP3/TP3/TP3.csproj",
+      "packagesPath": "/Users/caiomotamarinho/.nuget/packages/",
+      "outputPath": "/Users/caiomotamarinho/RiderProjects/TP3/TP3/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/caiomotamarinho/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/TP3.Paints.csproj": {
+              "projectPath": "/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/TP3.Paints.csproj"
+            },
+            "/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/TP3.Repository.csproj": {
+              "projectPath": "/Users/caiomotamarinho/RiderProjects/TP3/TP3.Repository/TP3.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.16, 6.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.16, 6.0.16]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/bin/Debug/net6.0/TP3.Paints.deps.json
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/bin/Debug/net6.0/TP3.Paints.dll
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/bin/Debug/net6.0/TP3.Paints.pdb
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/TP3.Paints.csproj.AssemblyReference.cache
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/TP3.Paints.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/TP3.Paints.AssemblyInfoInputs.cache
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/TP3.Paints.AssemblyInfo.cs
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/TP3.Paints.csproj.CoreCompileInputs.cache
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/TP3.Paints.dll
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/refint/TP3.Paints.dll
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/TP3.Paints.pdb
+/Users/caiomotamarinho/RiderProjects/TP3/TP3.Paints/obj/Debug/net6.0/ref/TP3.Paints.dll
